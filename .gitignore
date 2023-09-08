@@ -2,7 +2,6 @@
 *.slo
 *.lo
 *.o
-*.obj
 
 # Precompiled Headers
 *.gch
@@ -31,4 +30,4 @@
 *.swo
 *.swp
 
-build/*
+build
